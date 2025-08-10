@@ -63,6 +63,10 @@ export default {
 					ring: 'hsl(var(--sidebar-ring))'
 				}
 			},
+			fontFamily: {
+				'dm-sans': ['DM Sans', 'sans-serif'],
+				'sans': ['DM Sans', 'sans-serif'],
+			},
 			backgroundImage: {
 				'hero-gradient': 'var(--hero-gradient)',
 				'accent-gradient': 'var(--accent-gradient)',
